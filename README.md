@@ -1,2 +1,2 @@
 # banking_application
-A simple python coded banking application I created using Jupyter Notebooks
+A simple python coded banking program I created using Jupyter Notebooks
